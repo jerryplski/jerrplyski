@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jeremy! <br/><a href="https://github.com/jerryplski/jerrplyski/">github</a>, <a href="https://www.linkedin.com/in/jeremy-pacholski-a05564294/">linkedin</a>, <a href="https://x.com/jPacholski02">X.com</a></h1>
 <!-- WORK IN PROGRESS -->
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Basic Home Lab Running Active Directory (Oracle VirtualBox)</b>
 
