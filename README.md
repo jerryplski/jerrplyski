@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Basic Home Lab Running Active Directory (Oracle VirtualBox)</b>
+- <a href="https://github.com/jerryplski/ActiveDirectoryLab/">Basic Home Lab Running Active Directory (Oracle VirtualBox)</a>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
