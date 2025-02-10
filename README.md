@@ -2,12 +2,12 @@
 <!-- WORK IN PROGRESS -->
 
 <h2>👨‍💻 Projects:</h2>
-
+ <!-- To Do for Jerry -->
 - <a href="https://github.com/jerryplski/ActiveDirectoryLab/">Basic Home Lab Running Active Directory (Oracle VirtualBox)</a>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> GUI Taskmanager</b>
 
-- <b>PowerShell</b>
+- <b> Calculator </b>
 - <b>Java</b>
 - <b>C# (.NET Desktop Applications)</b>
 
