@@ -10,7 +10,7 @@
 - <b> Calculator </b>
 - <b>Java</b>
 - <b>C# (.NET Desktop Applications)</b>
-
+- <b>Powershell: <a href="https://github.com/jerryplski/jerrplyski/blob/main/Client%20Standard%20Installation">Client Standard Installation Script</a>
 - <b>Python</b>
   - ...
 
