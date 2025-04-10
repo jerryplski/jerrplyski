@@ -43,7 +43,7 @@ Invoke-RestMethod 'https://community.chocolatey.org/install.ps1' | Invoke-Expres
 
 # ==================== Standardsoftware installieren ============Q========
 Write-Host Installiere Standardsoftware... -ForegroundColor Yellow
-choco install 7zip firefox adoptopenjdk adobereader teamviewer -y
+choco install 7zip firefox adoptopenjdk adobereader irfanview irfanviewplugins teamviewer -y
 
 # ==================== Drittanbieter-Updates ====================
 Write-Host Aktualisiere Drittanbieter-Software... -ForegroundColor Yellow
