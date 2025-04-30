@@ -3,12 +3,12 @@
 
 <h2>👨‍💻 Projects:</h2>
  <!-- To Do for Jerry -->
-- <a href="https://github.com/jerryplski/ActiveDirectoryLab/">Basic Home Lab Running Active Directory (Oracle VirtualBox)</a> <br><br>
-- <a href="https://github.com/jerryplski/jerrplyski/blob/main/Client%20Standard%20Installation">Client Standard Installation Script</a>
+- <a href="https://github.com/jerryplski/ActiveDirectoryLab/">Basic Home Lab Running Active Directory (Oracle VirtualBox) (planned) </a> <br><br>
+- <a href="https://github.com/jerryplski/jerrplyski/blob/main/Windows%20Client%20Standard%20Installation">Client Standard Installation Script</a>
 
 - <b> GUI Taskmanager</b>
 
-- <b> Calculator </b>
+- <b> Calculator (in progress) </b>
 - <b>Java</b>
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
@@ -22,7 +22,7 @@
 
 
 <!--
-Some ideas to get you started:
+Some ideas to get you started for me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -30,6 +30,5 @@ Some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
