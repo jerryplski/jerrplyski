@@ -2,7 +2,7 @@ Client Standard Installation
 
 # ==================== Initial Setup ====================
 # Script Execution Policy & TLS
-Write-Host Starte WeserIT Setup... -ForegroundColor Cyan
+Write-Host Starte Setup... -ForegroundColor Cyan
 Set-ExecutionPolicy Bypass -Scope Process -Force
 
 # ==================== Script als Administrator ausführen ====================
