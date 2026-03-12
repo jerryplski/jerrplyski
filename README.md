@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/jerryplski/jerrplyski/">github</a>, <a href="https://www.linkedin.com/in/jeremy-pacholski-a05564294/">linkedin</a>, <a href="https://x.com/jPacholski02">X.com</a></h1>
+<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/jerryplski/jerrplyski/">github</a>, <a href="https://www.linkedin.com/in/jeremy-pacholski-54a5263b3/">linkedin</a>, <a href="https://x.com/jPacholski02">X.com</a></h1>
 <!-- WORK IN PROGRESS -->
 
 <h2>👨‍💻 Projects:</h2>
