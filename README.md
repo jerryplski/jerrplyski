@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Projects:</h2>
  <!-- To Do for Jerry -->
-- <a href="https://github.com/jerryplski/ActiveDirectoryLab/">Basic Home Lab Running Active Directory (Proxmox / Hyper-V)</a><p>(planned)</p></p>
-- <a href="https://github.com/jerryplski/.../">K3S Cluster Home Laba><p>(planned)</p></p>
+<a href="https://github.com/jerryplski/ActiveDirectoryLab/">- Basic Home Lab Running Active Directory (Proxmox / Hyper-V)</a><p>(planned)</p></p>
+<a href="https://github.com/jerryplski/.../">- K3S Cluster Home Laba><p>(planned)</p></p>
 <p>SQL</p>
 - <a href="https://github.com/jerryplski/jerrplyski/blob/main/Windows%20Client%20Standard%20Installation">Client Standard Installation Script</a>
 - <b>Java</b>
