@@ -7,8 +7,6 @@
 
 </br>
 
-</br>
-
 <a href="https://github.com/jerryplski/.../">- K3S Cluster Automatization Home Lab</a>
 
 </br>
