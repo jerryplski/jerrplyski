@@ -3,17 +3,11 @@
 
 <h2>👨‍💻 Projects:</h2>
  <!-- To Do for Jerry -->
-- <a href="https://github.com/jerryplski/ActiveDirectoryLab/">Basic Home Lab Running Active Directory (Oracle VirtualBox)</a><p>(planned)</p></p>
+- <a href="https://github.com/jerryplski/ActiveDirectoryLab/">Basic Home Lab Running Active Directory (Proxmox / Hyper-V)</a><p>(planned)</p></p>
+- <a href="https://github.com/jerryplski/.../">K3S Cluster Home Laba><p>(planned)</p></p>
 <p>SQL</p>
-<p>Testinstanz</p>
-<p>Matrix42 Testinstanz</p>
 - <a href="https://github.com/jerryplski/jerrplyski/blob/main/Windows%20Client%20Standard%20Installation">Client Standard Installation Script</a>
-
-- <b> GUI Taskmanager</b>
-
-- <b> Calculator (in progress) </b>
 - <b>Java</b>
-- <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
   - ...
 
