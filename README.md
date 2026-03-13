@@ -15,9 +15,9 @@ IT enthusiast focused on networking, infrastructure and automation.
 <ul>
 <li>
 <a href="https://github.com/jerryplski/ActiveDirectoryLab/">
-Active Directory Home Lab
+Proxmox Homelab
 </a>  
-(Proxmox / Hyper-V, Windows Server, AD, GPO, Networking)
+(Docker, Windows Server, AD, GPO, Networking)
 </li>
 
 <li>
