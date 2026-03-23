@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy 👋</h1>
+<h1>Hi, I'm Jeremy </h1>
 
 <p>
 IT enthusiast focused on networking, infrastructure and automation.
@@ -10,7 +10,7 @@ IT enthusiast focused on networking, infrastructure and automation.
 <a href="https://x.com/jPacholski02">X</a>
 </p>
 
-<h2>👨‍💻 Projects</h2>
+<h2> Projects</h2>
 
 <ul>
 <li>
@@ -35,7 +35,7 @@ Windows Client Standard Installation Script
 </li>
 </ul>
 
-<h2>⚙️ Technologies</h2>
+<h2> Technologies</h2>
 
 <p>
 <b>Networking:</b> Fortinet, Cisco, VPN, VLAN, BGP, OSPF  
@@ -53,7 +53,7 @@ Windows Client Standard Installation Script
 <b>Other:</b> SQL, Python, Java
 </p>
 
-<h2>🚧 Work in Progress</h2>
+<h2> Work in Progress</h2>
 
 <ul>
 <li>Kubernetes / K3s automation</li>
