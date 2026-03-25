@@ -46,7 +46,7 @@ Windows Client Standard Installation Script
 </p>
 
 <p>
-<b>Automation:</b> PowerShell, Ansible, Bash  
+<b>Automation:</b> PowerShell, Ansible, Bash, n8n  
 </p>
 
 <p>
