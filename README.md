@@ -28,10 +28,17 @@ K3s Cluster Automation Lab
 </li>
 
 <li>
+<a href="https://github.com/jerryplski/enterprise-network-lab-forigate/tree/main">
+Enterprise-Network-Lab-Fortigate
+</a>  
+(FortiGate Firewall, VLANs, VPN, BGP, SNAT/DNAT, Troubleshooting)
+</li>
+
+<li>
 <a href="https://github.com/jerryplski/jerrplyski/blob/main/Windows%20Client%20Standard%20Installation">
 Windows Client Standard Installation Script
 </a>  
-(Automated Windows client setup)
+(PowerShell, Automation, Windows 11, Group Policy, Software Deployment)
 </li>
 </ul>
 
