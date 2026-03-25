@@ -54,5 +54,5 @@ Write-Host Erstelle Wiederherstellungspunkt 'Final Setup Point'... -ForegroundCo
 Checkpoint-Computer -Description "Automatischer-Wiederherstellungspunkt"
 
 # ==================== Abschluss ====================
-Write-Host ✅ Setup abgeschlossen! -ForegroundColor Green
+Write-Host Setup abgeschlossen! -ForegroundColor Green
 Pause
