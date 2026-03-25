@@ -42,11 +42,11 @@ Windows Client Standard Installation Script
 </p>
 
 <p>
-<b>Virtualization:</b> Proxmox, Hyper-V, VMware  
+<b>Virtualization:</b> Proxmox, Hyper-V, VMware, Docker, Kubernetes  
 </p>
 
 <p>
-<b>Automation:</b> PowerShell, Ansible  
+<b>Automation:</b> PowerShell, Ansible, Bash  
 </p>
 
 <p>
