@@ -35,7 +35,7 @@ Enterprise-Network-Lab-Fortigate
 </li>
 
 <li>
-<a href="https://github.com/jerryplski/jerrplyski/blob/main/Windows%20Client%20Standard%20Installation">
+<a href="https://github.com/jerryplski/Windows-Client-Standard-Installation-PowerShell">
 Windows Client Standard Installation Script
 </a>  
 (PowerShell, Automation, Windows 11, Group Policy, Software Deployment)
