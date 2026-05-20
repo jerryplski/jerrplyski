@@ -22,9 +22,9 @@ Proxmox Homelab
 
 <li>
 <a href="https://github.com/jerryplski/.../">
-K3s Cluster Automation Lab
+K3s Infrastructure Lab
 </a>  
-(Automated lightweight Kubernetes cluster deployment)
+(Automated lightweight Kubernetes cluster deployment with Ansible and k3s, incl. GitOps, CI/CD and monitoring with Prometheus and Grafana)
 </li>
 
 <li>
